@@ -1,0 +1,22 @@
+[
+{
+    "nama" : "ahmad",
+    "umur" : 22,
+    "skripsi" : ["analisa penerapan"],
+    "pembimbing" : {
+        "pembimbing1" : "muhammad",
+        "pembimbing2" : "muhammad lagi"
+
+    }
+},
+{
+    "nama" : "ahmad",
+    "umur" : 22,
+    "skripsi" : ["analisa penerapan"],
+    "pembimbing" : {
+        "pembimbing1" : "muhammad",
+        "pembimbing2" : "muhammad lagi"
+
+    }
+}
+]
